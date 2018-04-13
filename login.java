@@ -1,6 +1,6 @@
-public class login
+public class login.java
 {
-public static void main(String arg[])
+public static void main(String args[])
 {
 a=2;
 b=4;
